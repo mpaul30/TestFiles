@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<medisight>
+	<directorate>OPH</directorate>
+	<department>CLI</department>
+	<mrn>0999994h</mrn>
+	<documentreference>123456_20240319112716_02b19366-77b4-6df1-94be-6a51aab65902.pdf</documentreference>
+	<documentType>LCVGP</documentType>
+	<documentCategory>Strabismus And Paediatrics</documentCategory>
+	<encounterDate>20240319000000</encounterDate>
+   	<signedDateTime>20240412122503</signedDateTime>
+	<consultantAD>BradleyP6</consultantAD>
+	<signerAD>BradleyP6</signerAD>
+	<GPGMC>G6846664</GPGMC>
+	<GPODS>A84007</GPODS>
+</medisight>
